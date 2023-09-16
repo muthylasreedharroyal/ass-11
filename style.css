@@ -1,0 +1,48 @@
+body{
+    background-image: url('photo-1554415707-c1426270e0da.webp');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-container{
+    width: 550px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 180px auto;
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(7, 17, 11);
+}
+.user-data{
+    width: 100%;
+    font-size: 20px;
+    padding: 10px 16px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 10px;
+   
+}
+.btn{
+    width: 100%;
+    padding: 10px 16px;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-weight: bolder;
+    border:  none;
+    border-radius: 10px;
+    background-color: rgb(64, 55, 224);
+    color: rgb(244, 242, 248);
+    margin-top: 50px;
+    
+
+
+}
+.valid{
+    text-decoration: none;
+    margin: 20px 10px;
+    color: blue;
+
+}
